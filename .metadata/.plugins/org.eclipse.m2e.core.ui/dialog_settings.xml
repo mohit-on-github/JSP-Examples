@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/MO20463588/Downloads/JSP Assignment L1/Assignment17"/>
+			<item value="/Users/MO20463588/Desktop/JFS assignments/MO20463588_JSP_L1/Assigment13/pom.xml"/>
+			<item value="/Users/MO20463588/Downloads/JSP Assignment L1/Assignment12/Assignment12jsp/src/main/java"/>
+			<item value="/Users/MO20463588/Downloads/JSP Assignment L1/Assignment11/Assignment11Jsp/src/main/java/com/gyan/LoginServlet.java"/>
+			<item value="/Users/MO20463588/Downloads/JSP Assignment L1/Assignment16/session-client.jsp"/>
+			<item value="/Users/MO20463588/Downloads/JSP Assignment L1/Assignment15/cookie.jsp"/>
+			<item value="/Users/MO20463588/Downloads/JSP Assignment L1/Assignment10/nullpoint.jsp"/>
+			<item value="/Users/MO20463588/Downloads/JSP Assignment L1/Assignment9/Assignment9JSp/src/main"/>
+			<item value="/Users/MO20463588/Desktop/JFS assignments/MO20463588_JSP_L1/Assignment5/pom.xml"/>
+			<item value="/Users/MO20463588/Desktop/JFS assignments/MO20463588_JSP_L1/Assignment7/src/main/webapp/page2.jsp"/>
+			<item value="/Users/MO20463588/Desktop/JFS assignments/MO20463588_JSP_L1/Assignment6"/>
+			<item value="/Users/MO20463588/Desktop/JFS assignments/MO20463588_JSP_L1/Assignment3/pom.xml"/>
+			<item value="/Users/MO20463588/Desktop/JFS assignments/MO20463588_JSP_L1/Assignment1"/>
+			<item value="/Users/MO20463588/Desktop/JFS assignments/MO20463588_JSP_L1/PractiseAssignment3"/>
+			<item value="/Users/MO20463588/Desktop/JFS assignments/MO20463588_JSP_L1/PractiseAssignment1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.wipro"/>
+		</list>
+		<list key="name">
+			<item value="Assignment10"/>
+		</list>
+		<list key="artifactId">
+			<item value="Assignment17"/>
+			<item value="Assignment14"/>
+			<item value="Assigment13"/>
+			<item value="Asiignment12"/>
+			<item value="Assignment11"/>
+			<item value="Assignment16"/>
+			<item value="Assignment15"/>
+			<item value="Assignment10"/>
+			<item value="Assignment4"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="494"/>
+		<item key="x" value="480"/>
+		<item key="y" value="121"/>
+	</section>
+</section>
